@@ -18,7 +18,9 @@ Grundlagen der Softwaretechnik, inklusive zentraler Begriffe, Herausforderungen 
 
 \## ESA-REQ-E1
 
-Analyse und Strukturierung von Anforderungen im Bereich Requirements Engineering, basierend auf einem realen Projekt.
+Analyse und Strukturierung von Anforderungen im Bereich Requirements Engineering, basierend auf einem realen Projekt. Zusätzlich wurden Requirements in mehreren Werkzeugen modelliert sowie eine AI-gestützte „Constitution“ mit Mission, Roadmap, Tech Stack und Feature-Spezifikationen erstellt.
+
+Ergänzt am 08.05.2026 als ich feststellte, dass Teil C in der Aufgabenstellung hinzugefügt worden ist, um die md Dateien zur Professionellen Strukturierung und Beschreibung
 
 
 

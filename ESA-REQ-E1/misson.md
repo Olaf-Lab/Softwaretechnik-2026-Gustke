@@ -1,0 +1,3 @@
+# Mission
+
+Ziel des Projekts ist die Modernisierung der bestehenden Auftragssteuerung durch die Migration von SAP R/3 nach ServiceNow. Dadurch sollen Prozesse effizienter, transparenter und benutzerfreundlicher gestaltet werden. Langfristig soll eine zentrale Plattform geschaffen werden, die moderne IT-Service-Management-Prozesse unterstützt und die Zusammenarbeit zwischen den beteiligten Bereichen verbessert.
