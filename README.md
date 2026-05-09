@@ -18,9 +18,7 @@ Grundlagen der Softwaretechnik, inklusive zentraler Begriffe, Herausforderungen 
 
 \## ESA-REQ-E1
 
-Analyse und Strukturierung von Anforderungen im Bereich Requirements Engineering, basierend auf einem realen Projekt. Zusätzlich wurden Requirements in mehreren Werkzeugen modelliert sowie eine AI-gestützte „Constitution“ mit Mission, Roadmap, Tech Stack und Feature-Spezifikationen erstellt.
-
-Ergänzt am 08.05.2026 als ich feststellte, dass Teil C in der Aufgabenstellung hinzugefügt worden ist, um die md Dateien zur Professionellen Strukturierung und Beschreibung
+Analyse und Strukturierung von Anforderungen im Bereich Requirements Engineering, basierend auf einem realen Projekt. Zusätzlich wurden Requirements in mehreren Werkzeugen modelliert sowie eine AI-gestützte „Constitution“ mit Mission, Roadmap, Tech Stack und mehreren Markdown-Dateien zur strukturierten Projektbeschreibung und Feature-Spezifikation erstellt.
 
 
 
@@ -61,4 +59,10 @@ Durchführung einer strukturierten Projektanalyse mit definierten Kriterien. Erg
 
 
 Die Umsetzung erfolgte lokal mit Git Bash sowie über GitHub. Alle Änderungen und Entwicklungsschritte sind im Repository nachvollziehbar dokumentiert.
+
+
+
+\## ESA-UML-E1 – UML-Diagramme
+
+Erstellung mehrerer UML-Diagramme zur Modellierung der Auftragssteuerung im Kontext der Migration von SAP R/3 nach ServiceNow. Enthalten sind unter anderem Klassendiagramm, Anwendungsfalldiagramm, Aktivitätsdiagramm, Sequenzdiagramm, Zustandsdiagramm, Komponentendiagramm und Deploymentdiagramm.
 
