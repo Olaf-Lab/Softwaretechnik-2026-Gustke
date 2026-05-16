@@ -66,3 +66,11 @@ Die Umsetzung erfolgte lokal mit Git Bash sowie über GitHub. Alle Änderungen u
 
 Erstellung mehrerer UML-Diagramme zur Modellierung der Auftragssteuerung im Kontext der Migration von SAP R/3 nach ServiceNow. Enthalten sind unter anderem Klassendiagramm, Anwendungsfalldiagramm, Aktivitätsdiagramm, Sequenzdiagramm, Zustandsdiagramm, Komponentendiagramm und Deploymentdiagramm.
 
+
+
+\## ESA-OOD-E1-E4 – Object-Oriented Design und DDD
+
+
+
+Durchführung eines Event Stormings für den Smart Task Manager inklusive Domain Events, Boundaries, Core Domain Chart, Domain Mapping und Bounded Context Canvas.
+
