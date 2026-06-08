@@ -74,3 +74,41 @@ Erstellung mehrerer UML-Diagramme zur Modellierung der Auftragssteuerung im Kont
 
 Durchführung eines Event Stormings für den Smart Task Manager inklusive Domain Events, Boundaries, Core Domain Chart, Domain Mapping und Bounded Context Canvas.
 
+
+
+\## ESA-BUI-E1 – Buildmanagement
+
+
+
+Praktische Durchführung und Dokumentation von Buildmanagement- und CI/CD-Prozessen anhand der Werkzeuge Jenkins und GitHub Actions. Im Rahmen der Aufgabe wurden Installation, Konfiguration, Workflow-Erstellung sowie die erfolgreiche Ausführung automatisierter Prozesse durchgeführt.
+
+
+
+\## Inhalte
+
+
+
+\- Jenkins Installation und Einrichtung
+
+\- Analyse und Lösung von Java-Abhängigkeiten
+
+\- GitHub Actions Workflow erstellen
+
+\- Workflow automatisiert ausführen
+
+\- Continuous Integration (CI/CD)
+
+\- Dokumentation von Problemen und Lösungswegen
+
+\- Auswertung der gewonnenen Erfahrungen
+
+
+
+\## Hinweis
+
+
+
+Die praktische Durchführung erfolgte lokal unter Windows sowie über GitHub. Alle Schritte wurden anhand von Screenshots dokumentiert und die gemachten Erfahrungen einschließlich auftretender Probleme und deren Lösungen beschrieben.
+
+
+
