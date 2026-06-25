@@ -6,171 +6,69 @@
 
 
 
-Dieses Repository enthält die Einsendeaufgaben im Modul Softwaretechnik. Die Aufgaben wurden praxisnah anhand eines Projekts zur Auftragssteuerung im Kontext des ITDZ Berlin umgesetzt.
+Dieses Repository enthält sämtliche Einsendeaufgaben des Moduls Softwaretechnik.
 
 
 
-\## ESA-SWT-E1
+Jede Einsendeaufgabe befindet sich in einem eigenen Unterordner und enthält eine README.md mit einer Übersicht über Inhalt, Bearbeitung, AI-Unterstützung und die wichtigsten Dateien.
 
-Grundlagen der Softwaretechnik, inklusive zentraler Begriffe, Herausforderungen und Einfluss moderner Technologien.
 
 
+\---
 
-\## ESA-REQ-E1
 
-Analyse und Strukturierung von Anforderungen im Bereich Requirements Engineering, basierend auf einem realen Projekt. Zusätzlich wurden Requirements in mehreren Werkzeugen modelliert sowie eine AI-gestützte „Constitution“ mit Mission, Roadmap, Tech Stack und mehreren Markdown-Dateien zur strukturierten Projektbeschreibung und Feature-Spezifikation erstellt.
 
+\## Einsendeaufgaben
 
 
-\## ESA-DVC-E1 – Versionsverwaltung mit Git
 
-Umsetzung zentraler Git-Funktionalitäten wie add, commit, push, diff und status sowie Branching, Merge und Konfliktlösung. Zusätzlich wurde eine Zeitreise durchgeführt und ein externer Pull Request erstellt.
+| ESA | Thema | Ordner |
 
+|---|---|---|
 
+| SWT-E1 | Grundlagen Softwaretechnik | ESA-SWT-E1 |
 
-Pull Request:
+| REQ-E1 | Requirements Engineering | ESA-REQ-E1 |
 
-https://github.com/edlich/education/pull/570
+| DVC-E1 | Versionsverwaltung mit Git | ESA-DVC-E1 |
 
+| ANA-E1 | Analyse und AI | ESA-ANA-E1 |
 
+| UML-E1 | UML-Diagramme | ESA-UML-E1 |
 
-\## ESA-ANA-E1 – Analyse und AI
+| OOD-E1-E4 | Object-Oriented Design | ESA-OOD-E1-E4 |
 
-Durchführung einer strukturierten Projektanalyse mit definierten Kriterien. Ergänzend wurde der Einsatz von künstlicher Intelligenz (AI) und generativer AI (GenAI) zur Unterstützung der Analyse betrachtet.
+| VOR-E1 | Vorgehensmodelle | ESA-VOR-E1 |
 
+| BUI-E1 | Buildmanagement | ESA-BUI-E1 |
 
+| REF-E1 | Refactoring | ESA-REF-E1 |
 
-\## Inhalte
 
 
+\---
 
-\- Strukturierte Projektanalyse
 
-\- Einsatz von Git und GitHub
 
-\- Anwendung von Requirements Engineering Methoden
+\## Hinweise
 
-\- Integration von AI und GenAI
 
 
+Jeder ESA-Ordner enthält:
 
-\## Hinweis
 
 
+\- README.md mit einer Übersicht
 
-Die Umsetzung erfolgte lokal mit Git Bash sowie über GitHub. Alle Änderungen und Entwicklungsschritte sind im Repository nachvollziehbar dokumentiert.
+\- die zugehörigen Dokumente
 
+\- Screenshots
 
+\- Quellen
 
-\## ESA-UML-E1 – UML-Diagramme
+\- ggf. AI-unterstützte Artefakte
 
-Erstellung mehrerer UML-Diagramme zur Modellierung der Auftragssteuerung im Kontext der Migration von SAP R/3 nach ServiceNow. Enthalten sind unter anderem Klassendiagramm, Anwendungsfalldiagramm, Aktivitätsdiagramm, Sequenzdiagramm, Zustandsdiagramm, Komponentendiagramm und Deploymentdiagramm.
 
 
-
-\## ESA-OOD-E1-E4 – Object-Oriented Design und DDD
-
-
-
-Durchführung eines Event Stormings für den Smart Task Manager inklusive Domain Events, Boundaries, Core Domain Chart, Domain Mapping und Bounded Context Canvas.
-
-
-
-\## ESA-BUI-E1 – Buildmanagement
-
-
-
-Praktische Durchführung und Dokumentation von Buildmanagement- und CI/CD-Prozessen anhand der Werkzeuge Jenkins und GitHub Actions. Im Rahmen der Aufgabe wurden Installation, Konfiguration, Workflow-Erstellung sowie die erfolgreiche Ausführung automatisierter Prozesse durchgeführt.
-
-
-
-\## Inhalte
-
-
-
-\- Jenkins Installation und Einrichtung
-
-\- Analyse und Lösung von Java-Abhängigkeiten
-
-\- GitHub Actions Workflow erstellen
-
-\- Workflow automatisiert ausführen
-
-\- Continuous Integration (CI/CD)
-
-\- Dokumentation von Problemen und Lösungswegen
-
-\- Auswertung der gewonnenen Erfahrungen
-
-
-
-\## Hinweis
-
-
-
-Die praktische Durchführung erfolgte lokal unter Windows sowie über GitHub. Alle Schritte wurden anhand von Screenshots dokumentiert und die gemachten Erfahrungen einschließlich auftretender Probleme und deren Lösungen beschrieben.
-
-
-
-\# ESA-REF-E1 – Refactoring
-
-
-
-\## Beschreibung
-
-
-
-Diese Einsendeaufgabe beschäftigt sich mit dem Thema Refactoring auf Basis des Refactoring-Katalogs von Martin Fowler.
-
-
-
-Ziel ist es, verschiedene Refactorings kennenzulernen, deren Nutzen zu bewerten und praktische Erfahrungen mit Refactoring-Techniken zu sammeln.
-
-
-
-\## Inhalte
-
-
-
-\* Analyse ausgewählter Refactorings aus dem Fowler-Katalog
-
-\* Bewertung interessanter Refactorings
-
-\* Diskussion eines schwer verständlichen oder aus meiner Sicht weniger nützlichen Refactorings
-
-\* Dokumentation der verwendeten IDE und ihrer Refactoring-Funktionen
-
-\* Eigenes Refactoring-Beispiel (Vorher/Nachher)
-
-\* Refactoring mit Unterstützung einer Generativen AI
-
-\* Auswertung der gewonnenen Erfahrungen
-
-
-
-\## Verwendete Werkzeuge
-
-
-
-Visual Studio Code
-
-Java
-
-Git
-
-GitHub
-
-Generative AI zur Unterstützung eines Refactorings
-
-
-
-\## Abgabe
-
-
-
-Die finale Ausarbeitung befindet sich in:
-
-
-
-REF-E1-Gustke.pdf
+Die AI-unterstützten Inhalte sind innerhalb der jeweiligen README eindeutig als \*\*Teil B (AI)\*\* gekennzeichnet.
 
