@@ -14,7 +14,13 @@ Jede Einsendeaufgabe befindet sich in einem eigenen Unterordner und enthält ein
 
 
 
-\---
+\## Hinweis
+
+
+
+Für die Begutachtung der Einsendeaufgabe empfiehlt sich die PDF-Datei \*\*TST-E1-Gustke.pdf\*\*. Sie enthält die vollständige Dokumentation der Bearbeitung einschließlich Erläuterungen, Screenshots und des schrittweisen Entwicklungsverlaufs. Das GitHub-Repository ergänzt die Abgabe um den vollständigen Quellcode und die Projektstruktur.
+
+
 
 
 
@@ -44,9 +50,9 @@ Jede Einsendeaufgabe befindet sich in einem eigenen Unterordner und enthält ein
 
 | REF-E1 | Refactoring | ESA-REF-E1 |
 
+| TST-E1 | Test-Driven Development | ESA-TST-E1 |
 
 
-\---
 
 
 
