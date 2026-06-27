@@ -54,6 +54,8 @@ Für die Begutachtung der Einsendeaufgabe empfiehlt sich die PDF-Datei \*\*TST-E
 
 | MET-E1 | Metriken | ESA-MET-E1 |
 
+| ARC-E1-E2 | Softwarearchitektur | ESA-ARC-E1-E2 |
+
 
 
 
