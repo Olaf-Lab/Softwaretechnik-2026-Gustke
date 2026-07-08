@@ -18,7 +18,14 @@ Jede Einsendeaufgabe befindet sich in einem eigenen Unterordner und enthält ein
 
 
 
-Für die Begutachtung der Einsendeaufgabe empfiehlt sich die PDF-Datei \*\*TST-E1-Gustke.pdf\*\*. Sie enthält die vollständige Dokumentation der Bearbeitung einschließlich Erläuterungen, Screenshots und des schrittweisen Entwicklungsverlaufs. Das GitHub-Repository ergänzt die Abgabe um den vollständigen Quellcode und die Projektstruktur.
+## Hinweis
+
+Jede Einsendeaufgabe besteht aus zwei Bestandteilen:
+
+- der jeweiligen PDF-Dokumentation im Hauptverzeichnis,
+- dem zugehörigen Projektordner (`ESA-*`) mit Quellcode, README, Screenshots und weiteren Dateien.
+
+Für die Begutachtung einer Einsendeaufgabe empfiehlt es sich daher, sowohl die jeweilige PDF-Datei als auch den entsprechenden ESA-Ordner gemeinsam zu betrachten. Oder wenn es schnell gehen muss, dann nur eins von Beiden durchzuschauen.
 
 
 
