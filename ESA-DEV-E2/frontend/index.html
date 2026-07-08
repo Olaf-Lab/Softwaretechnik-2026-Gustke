@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Zeichensatz und mobile Darstellung -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Task Manager</title>
+
+    <!-- Verbindung zur CSS-Datei -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Smart Task Manager</h1>
+    <p>Manage your daily tasks efficiently</p>
+</header>
+
+<main>
+    <section class="task-form">
+        <h2>Create Task</h2>
+
+        <!-- Eingabefeld für neue Aufgabe -->
+        <input type="text" id="taskTitle" placeholder="Task title">
+
+        <!-- Auswahl der Priorität -->
+        <select id="priority">
+            <option>Low</option>
+            <option>Medium</option>
+            <option>High</option>
+        </select>
+
+        <button>Add Task</button>
+    </section>
+
+    <section class="task-list">
+        <h2>My Tasks</h2>
+
+        <!-- Hier fügt JavaScript die Aufgaben ein -->
+        <ul id="tasks"></ul>
+    </section>
+</main>
+
+<!-- Verbindung zur JavaScript-Datei -->
+<script src="app.js"></script>
+
+</body>
+</html>

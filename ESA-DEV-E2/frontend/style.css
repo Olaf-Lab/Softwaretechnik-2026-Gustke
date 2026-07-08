@@ -1,0 +1,68 @@
+/* Grundlayout der Seite */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+/* Kopfbereich */
+header {
+    background-color: #4f8ef7;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Hauptbereich zentrieren */
+main {
+    width: 80%;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+/* Karten für Formular und Aufgabenliste */
+.task-form,
+.task-list {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Eingabefelder, Auswahl und Button */
+input,
+select,
+button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* Button-Design */
+button {
+    background-color: #4f8ef7;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Button beim Darüberfahren */
+button:hover {
+    background-color: #3d74ca;
+}
+
+/* Aufgabenliste */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Einzelne Aufgabe */
+li {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
