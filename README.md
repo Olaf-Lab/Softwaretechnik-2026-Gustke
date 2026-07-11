@@ -14,10 +14,6 @@ Jede Einsendeaufgabe befindet sich in einem eigenen Unterordner und enthält ein
 
 
 
-\## Hinweis
-
-
-
 ## Hinweis
 
 Jede Einsendeaufgabe besteht aus zwei Bestandteilen:
@@ -25,10 +21,7 @@ Jede Einsendeaufgabe besteht aus zwei Bestandteilen:
 - der jeweiligen PDF-Dokumentation im Hauptverzeichnis,
 - dem zugehörigen Projektordner (`ESA-*`) mit Quellcode, README, Screenshots und weiteren Dateien.
 
-Für die Begutachtung einer Einsendeaufgabe empfiehlt es sich daher, sowohl die jeweilige PDF-Datei als auch den entsprechenden ESA-Ordner gemeinsam zu betrachten. Oder wenn es schnell gehen muss, dann nur eins von Beiden durchzuschauen.
-
-
-
+Für eine vollständige Begutachtung empfiehlt es sich, sowohl die jeweilige PDF-Dokumentation als auch den entsprechenden ESA-Ordner gemeinsam zu betrachten.
 
 
 \## Einsendeaufgaben
@@ -63,12 +56,15 @@ Für die Begutachtung einer Einsendeaufgabe empfiehlt es sich daher, sowohl die 
 
 | ARC-E1-E2 | Softwarearchitektur | ESA-ARC-E1-E2 |
 
+| DEV-E1 | AI-/Vibe Coding – GUI-Prototyp | ESA-DEV-E1 |
+
+| DEV-E2 | AI-/Vibe Coding – Smart Task Manager | ESA-DEV-E2 |
+
+| DEV-E3 | AI-/Vibe Coding – Verteilte Anwendung | ESA-DEV-E3 |
 
 
 
-
-\## Hinweise
-
+\## Hinweise zu den Ordnern
 
 
 Jeder ESA-Ordner enthält:

@@ -1,0 +1,27 @@
+/* Gesamte Seite */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+/* Überschrift */
+h1 {
+    color: #003366;
+}
+
+/* Buttons */
+button {
+    padding: 10px 20px;
+    margin: 10px 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Bereich für die Ausgabe */
+#taskContainer {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #cccccc;
+}

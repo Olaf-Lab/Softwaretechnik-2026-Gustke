@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Complete DEV-E3",
+    "priority": "High",
+    "status": "Open",
+    "recommendation": ""
+  },
+  {
+    "id": 2,
+    "title": "Test distributed worker",
+    "priority": "Medium",
+    "status": "Open",
+    "recommendation": ""
+  },
+  {
+    "id": 3,
+    "title": "Prepare discussion with professor",
+    "priority": "High",
+    "status": "Planned",
+    "recommendation": ""
+  }
+]

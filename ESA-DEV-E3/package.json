@@ -1,0 +1,21 @@
+{
+  "name": "esa-dev-e3",
+  "version": "1.0.0",
+  "description": "Im Rahmen von DEV-E3 wird der in DEV-E2 entwickelte Smart Task Manager zu einer einfachen verteilten Anwendung erweitert.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
